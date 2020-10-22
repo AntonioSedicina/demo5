@@ -1,10 +1,7 @@
 public class NewClass {
-    /** non so cosa sto facendo
      * @param args
      */
     public static void main (String[] args){
-        int n = 4;
-        System.out.println ("facciamo " + n + " chiacchiere");
         String a = "scemo ";
         String b = new String ("chi legge");
         System.out.println (a+b);
